@@ -54,9 +54,6 @@ for item in data['data']:  # Replace 'games' with the correct key if needed
     # Create datetime object, and convert to Pacific Time (handles DST automatically)
     dt_utc = datetime.fromisoformat(starts_at)
     starts_at_pacific = dt_utc.astimezone(ZoneInfo("America/Los_Angeles"))
-    # dt_utc = datetime.fromisoformat(ends_at)
-    # ends_at_pacific = dt_utc.astimezone(ZoneInfo("America/Los_Angeles"))
-    # print(dt_pacific.time())
 
     # Get opponents name by checking the home and away teams
     if home_team == "Blood Sweat & Beers":
@@ -71,11 +68,6 @@ for item in data['data']:  # Replace 'games' with the correct key if needed
     event.location = "Scotia Barn by Canlan Sports 6501 Sprott St, Burnaby, BC V5B 3B8"
 
     calendar.events.add(event)
-
-    print (event.name)
-
-
-# print(calendar.events)
 
 # # -- Step 3: Write .ics File --
 
