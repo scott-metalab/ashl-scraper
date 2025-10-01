@@ -1,6 +1,5 @@
 import requests
 import json
-from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo 
