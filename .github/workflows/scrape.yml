@@ -2,7 +2,7 @@ name: Scrape and Deploy
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -36,11 +36,12 @@ jobs:
 
       - name: Commit and Push
         run: |
-              git switch gh-pages || git checkout --orphan gh-pages
-              rm -rf *
-              mv ../tmp/hockey_schedule.ics index.ics
-              git add index.ics
-              git commit -m "Update calendar" || echo "No changes"
-              git push origin gh-pages
+          cp tmp/hockey_schedule.ics /tmp/hockey_schedule.ics
+          git switch gh-pages || git checkout --orphan gh-pages
+          rm -rf *
+          mv /tmp/hockey_schedule.ics index.ics
+          git add index.ics
+          git commit -m "Update calendar" || echo "No changes"
+          git push -f origin gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
