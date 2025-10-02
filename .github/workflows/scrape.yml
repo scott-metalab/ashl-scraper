@@ -42,6 +42,6 @@ jobs:
           mv /tmp/hockey_schedule.ics index.ics
           git add index.ics
           git commit -m "Update calendar" || echo "No changes"
-          git push origin gh-pages
+          git push -f origin gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
