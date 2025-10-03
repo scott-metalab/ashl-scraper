@@ -34,17 +34,17 @@ response = requests.get(
     headers=headers,
 )
 
-# data = response.json()
+data = response.json()
 
-with open('testdata.json', 'r') as f:
-    data = json.load(f)
+# with open('testdata.json', 'r') as f:
+#     data = json.load(f)
 
 # -- Step 2: Create Calendar --
 
 calendar = Calendar()
 
-# You may need to adjust this based on the structure of your JSON
-for item in data['data']:  # Replace 'games' with the correct key if needed
+# Create calendar event objects
+for item in data['data']:  
     home_team = item.get('homeTeam').get('name')
     visitingTeam = item.get('visitingTeam').get('name')
     starts_at = item.get('starts_at')
