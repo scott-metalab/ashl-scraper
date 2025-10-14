@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 headers = {
     'accept': 'application/json',
     'accept-language': 'en-US,en;q=0.9',
-    'authorization': 'Bearer v2.local.CO1oUrCuxuQ7NKFxcOz9LXNERypTtdXqtKBfPmyFTqazsJlz0v-B0oaxZJBT0Ng9vhtvpMdU5tKIozQHzGMHOGmcT4D7hjCIq0AvNJ4I7uJtsXVl-FfZ1vnryOnWb0faknGTv5_oTD9UP0VVC4pzqJnmQPJTk0GXWIPzh7WITuAXqfWiKoZrOcofI41giS_X1JZEpqatepzFKliBZOYXC7BdF06Ei-wAfYSjfTtgdPXLE_bGB6J7zs_rTRe4CbP99K9EPG_5O5efp4CaNHwDCgtW0ZAl',
+    'authorization': 'Bearer v2.local.VRE1UlCDUFMgQ3PNZ1XgWZrx2fa_zdpAV7xgaNsTK_SViOOlhX2pX1M7n4jVCpdnijjLfBd_3fFQw5t-jKYb2yLtsC92QRSRNn7kBHZjZNolv9b-H69ujI1Vtl5xYEeQnEhMbVvOz7Yxsee0X5NLHnRUCKQ-Er-Q4PClpJ8gTe698OzAmDOF442M9jfPO3Z8LM-BHpZMW6HNK8YXp7rm7LhJjER3k0EoQI7M9y3a-lD9eld9oCJrxrWq4E3f1kZmr5WesSmbl1DNlkMvaQ64Yue7Gf1C',
     'content-type': 'application/json',
     'origin': 'https://www.ashl.ca',
     'priority': 'u=1, i',
@@ -35,6 +35,7 @@ response = requests.get(
 )
 
 data = response.json()
+print(data)
 
 # with open('testdata.json', 'r') as f:
 #     data = json.load(f)
