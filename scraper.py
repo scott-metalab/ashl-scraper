@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 headers = {
     'accept': 'application/json',
     'accept-language': 'en-US,en;q=0.9',
-    'authorization': 'Bearer v2.local.VRE1UlCDUFMgQ3PNZ1XgWZrx2fa_zdpAV7xgaNsTK_SViOOlhX2pX1M7n4jVCpdnijjLfBd_3fFQw5t-jKYb2yLtsC92QRSRNn7kBHZjZNolv9b-H69ujI1Vtl5xYEeQnEhMbVvOz7Yxsee0X5NLHnRUCKQ-Er-Q4PClpJ8gTe698OzAmDOF442M9jfPO3Z8LM-BHpZMW6HNK8YXp7rm7LhJjER3k0EoQI7M9y3a-lD9eld9oCJrxrWq4E3f1kZmr5WesSmbl1DNlkMvaQ64Yue7Gf1C',
+    'authorization': 'Bearer v2.local.31hc_2DnznQjvyt58SOPOd-_xxA7EEr1KPmueCw9r0ePj5sNnWnXp1q4jxrYmra_VdoIRFCrWZzSitBDscIdOSE3a4HI2HbdeOhKshIRL-l5GYxnVpGGEVhY5bgBlUEDymRnsztjMzmXhijlQI2qEqGak4mZF-DsyyFmDekMDRAz2eNL5c6f7PoSHQmKGsF03__kLq263891uC39XI8Jxd1YmmvXyEyAYLSAVy_3h-TJltYyMoPu6AYinOj2IcaRfBPvMxDexL-Tn6DWbDO8EF_GMGPA',
     'content-type': 'application/json',
     'origin': 'https://www.ashl.ca',
     'priority': 'u=1, i',
