@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 headers = {
     'accept': 'application/json',
     'accept-language': 'en-US,en;q=0.9',
-    'authorization': 'Bearer v2.local.jRU634hC1t7H0t4HqzuR6qqtA2fsvG2qWKvR5DEQRD57Q9Ti0iAp2Mik9kMJihKYvFMFg0y_Lg__VDkrUkiqeW3TSzG_4fO_LUTrJJMej75t3wtETLlUH8xKg9yt1hvEIeZpbd8PbkLoOaBrQy4E_VLz360O2mO4Nd4Dvz28Od1yJukqAZO83UiTxyR-cFN3h1y2W8ZJwXpWPTDOHz3k-AltCYiGoigQSBwoU0mIr73zGnri4rFXD0tvZ7lNt4T9yXLLM5jpAN33lqCXcInJH-N7PViusVjJz-n1k7962Uw8F6_QWRuZdyl-2zXLRwXPXU17-MwQgy98dXATskyZsN-C4TA',
+    'authorization': 'Bearer v2.local.RG03ofIgGoreHJq3WpLLbdGINA2oU8XhJdy9yzxUQe2OY1Xfy224Fk0qvRmxSTJwnDzrL95XUZFTw-QWG4w2xfqO71ELYughyRg1lJTWrv8TcKaLMCq4GWpT-zRGaEbHELUEFydi_YfBzW0Y2Dj3D1A-w1qS8n4lyaYMR9qvG1r2_h-EiyFTptxrYVyarSceaUpaOMghK0VwmNu_TNz1wYuqFJKm5iWcPPKyAFCeplbKjAcd9gDxJJZ7mUAInFtuYm5SMksWHDk4xG4TQj0-Fg_kudbVX5Xg0kJ557_jMlzE5GfWocdJRyx7bn5QVoclhAhO1tWb07b_vovqa6Qqby0_qI8',
     'content-type': 'application/json',
     'origin': 'https://www.ashl.ca',
     'priority': 'u=1, i',
