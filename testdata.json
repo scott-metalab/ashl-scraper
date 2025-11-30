@@ -1,0 +1,3947 @@
+{
+   "data":[
+      {
+         "id":"m7J2IGBSqlNaxpHz",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":9,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-09-04T05:30:00+00:00",
+         "ends_at":"2025-09-04T07:30:00+00:00",
+         "started_at":"2025-09-04T06:05:38+00:00",
+         "ended_at":"2025-09-04T06:34:06+00:00",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "home_team_score":3,
+         "visiting_team_score":14,
+         "current_period":{
+            "id":"knEij2wICUtZGyDp",
+            "started_at":"2025-09-04T06:15:29+00:00",
+            "duration":780000,
+            "ended_at":"2025-09-04T06:33:42+00:00",
+            "game_id":"m7J2IGBSqlNaxpHz",
+            "period_type":{
+               "id":"3",
+               "name":"3rd",
+               "name_full":"3rd Period",
+               "is_overtime":false
+            },
+            "shots_home_count":12,
+            "shots_visiting_count":15
+         },
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"4h9uZVqGf5zCEluI",
+            "name":"Hawt Dawgz",
+            "name_full":"Hawt Dawgz",
+            "abbreviation":"CTV3",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-10-01T02:38:19+00:00",
+            "players_count":0,
+            "image":{
+               "id":"dRQt9WoZpBZmKUSj",
+               "filename":"FCnzwa0VqJ530a77.jpg",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/FCnzwa0VqJ530a77.jpg",
+               "mime_type":"image/jpeg",
+               "width":566,
+               "height":524,
+               "formats":[
+                  {
+                     "id":"xx3UuZj4NDSQKksp",
+                     "filename":"d8RtPpuJVb7eF9Xc.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/d8RtPpuJVb7eF9Xc.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"obDHxpC4CIvtLXCq",
+                     "filename":"DUTfSlkOsuX4W3b6.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/DUTfSlkOsuX4W3b6.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"bKWmRS2iUV1HwFzm",
+                     "filename":"p66N8c7xQfsBvH7A.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/p66N8c7xQfsBvH7A.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"asjQcA7qxsMfDwO9",
+            "name":"Rink 5"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"JMzFDWZ6S4XQwPoq",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":9,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-09-12T04:15:00+00:00",
+         "ends_at":"2025-09-12T06:15:00+00:00",
+         "started_at":"2025-09-12T04:31:51+00:00",
+         "ended_at":"2025-09-12T05:31:01+00:00",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "home_team_score":3,
+         "visiting_team_score":4,
+         "current_period":{
+            "id":"y2O92J5IWgTKi7xn",
+            "started_at":"2025-09-12T05:10:14+00:00",
+            "duration":780000,
+            "ended_at":"2025-09-12T05:29:21+00:00",
+            "game_id":"JMzFDWZ6S4XQwPoq",
+            "period_type":{
+               "id":"3",
+               "name":"3rd",
+               "name_full":"3rd Period",
+               "is_overtime":false
+            },
+            "shots_home_count":7,
+            "shots_visiting_count":9
+         },
+         "shootout":false,
+         "homeTeam":{
+            "id":"Xgxl7qQ0cIYs5XUA",
+            "name":"Bingers",
+            "name_full":"Bingers",
+            "abbreviation":"Bin4",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-21T16:52:31+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"IK9GWPQ3ZkohLy6C",
+            "name":"Rink 4"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"4kVj8ueVHnKC89rg",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":9,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-09-20T23:30:00+00:00",
+         "ends_at":"2025-09-21T01:30:00+00:00",
+         "started_at":"2025-09-20T23:39:30+00:00",
+         "ended_at":"2025-09-21T00:32:31+00:00",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "home_team_score":3,
+         "visiting_team_score":7,
+         "current_period":{
+            "id":"5COqlsgfJphhRgii",
+            "started_at":"2025-09-21T00:31:17+00:00",
+            "duration":780000,
+            "ended_at":"2025-09-21T00:32:13+00:00",
+            "game_id":"4kVj8ueVHnKC89rg",
+            "period_type":{
+               "id":"3",
+               "name":"3rd",
+               "name_full":"3rd Period",
+               "is_overtime":false
+            },
+            "shots_home_count":1,
+            "shots_visiting_count":3
+         },
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"KBz6bh7LvS7xrSKW",
+            "name":"Trash Pandas",
+            "name_full":"Trash Pandas",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":{
+               "id":"jPTLa8pwLdBnrfk1",
+               "filename":"hZOitd1UMg3kElt0.png",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/hZOitd1UMg3kElt0.png",
+               "mime_type":"image/png",
+               "width":532,
+               "height":469,
+               "formats":[
+                  {
+                     "id":"e86rEsVBkgwBIkR0",
+                     "filename":"I6aGFnFE5XAEFFqJ.png",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/I6aGFnFE5XAEFFqJ.png",
+                     "mime_type":"image/png",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"dDPZlbfyKhYf0s0i",
+                     "filename":"AT0mXDEPBXX829Lk.png",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/AT0mXDEPBXX829Lk.png",
+                     "mime_type":"image/png",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"6vWq8iTEBwUyFeqp",
+                     "filename":"vrsg0KeYH0mnLpjv.png",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/vrsg0KeYH0mnLpjv.png",
+                     "mime_type":"image/png",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"gzJ7mhfG5za6GxoS",
+            "name":"Rink 6"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"ePuKjsMsgL10mBya",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":9,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-09-25T05:00:00+00:00",
+         "ends_at":"2025-09-25T07:00:00+00:00",
+         "started_at":"2025-09-25T05:06:21+00:00",
+         "ended_at":"2025-09-25T06:14:11+00:00",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "home_team_score":7,
+         "visiting_team_score":3,
+         "current_period":{
+            "id":"4XpfHa83xMKDjolZ",
+            "started_at":"2025-09-25T05:45:29+00:00",
+            "duration":780000,
+            "ended_at":"2025-09-25T06:01:06+00:00",
+            "game_id":"ePuKjsMsgL10mBya",
+            "period_type":{
+               "id":"3",
+               "name":"3rd",
+               "name_full":"3rd Period",
+               "is_overtime":false
+            },
+            "shots_home_count":9,
+            "shots_visiting_count":9
+         },
+         "shootout":false,
+         "homeTeam":{
+            "id":"463fz8XhgO8u1MIm",
+            "name":"OZ Outlawz",
+            "name_full":"OZ Outlawz",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-25T02:54:13+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"tKF8ksTMeKo2eOWF",
+            "name":"Rink 3"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"OEnpwF9bMNSWWPR8",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-10-06T02:45:00+00:00",
+         "ends_at":"2025-10-06T04:45:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"MiqrLYW4UoMPWXxF",
+            "name":"MOOSES",
+            "name_full":"Moose",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T04:18:04+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"gzJ7mhfG5za6GxoS",
+            "name":"Rink 6"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"W4gzWuU1S9W4Yhbw",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-10-10T03:30:00+00:00",
+         "ends_at":"2025-10-10T05:30:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"Ag1uFvqrvjlqb1Mw",
+            "name":"Team Exert",
+            "name_full":"Team Exert",
+            "abbreviation":"EXRT",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T04:18:04+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"tKF8ksTMeKo2eOWF",
+            "name":"Rink 3"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"22C6XO22beV2KnHe",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-10-20T01:00:00+00:00",
+         "ends_at":"2025-10-20T03:00:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"ri3VUtgUieI7AYNV",
+            "name":"Heat",
+            "name_full":"Heat",
+            "abbreviation":"Hea3",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-29T19:47:48+00:00",
+            "players_count":0,
+            "image":{
+               "id":"NqC7XGu9VgdhnW2k",
+               "filename":"ZMvS3bOLTAWgIkIb.jpg",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/ZMvS3bOLTAWgIkIb.jpg",
+               "mime_type":"image/jpeg",
+               "width":845,
+               "height":845,
+               "formats":[
+                  {
+                     "id":"YjX0xlrRk1QpStF8",
+                     "filename":"j1b9m98NRjwQmvB8.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/j1b9m98NRjwQmvB8.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"6A7EbEfD4JyvL2QD",
+                     "filename":"JxMFV9q2GpoHvskc.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/JxMFV9q2GpoHvskc.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"xBalx7eVgrTMTOsi",
+                     "filename":"070TFCiMo5BYloet.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/070TFCiMo5BYloet.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"OtjeYpjDS46CMuZZ",
+            "name":"Rink 1"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"9hKFVXIPyyGbQa7s",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-10-22T05:00:00+00:00",
+         "ends_at":"2025-10-22T07:00:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"4h9uZVqGf5zCEluI",
+            "name":"Hawt Dawgz",
+            "name_full":"Hawt Dawgz",
+            "abbreviation":"CTV3",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-10-01T02:38:19+00:00",
+            "players_count":0,
+            "image":{
+               "id":"dRQt9WoZpBZmKUSj",
+               "filename":"FCnzwa0VqJ530a77.jpg",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/FCnzwa0VqJ530a77.jpg",
+               "mime_type":"image/jpeg",
+               "width":566,
+               "height":524,
+               "formats":[
+                  {
+                     "id":"xx3UuZj4NDSQKksp",
+                     "filename":"d8RtPpuJVb7eF9Xc.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/d8RtPpuJVb7eF9Xc.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"obDHxpC4CIvtLXCq",
+                     "filename":"DUTfSlkOsuX4W3b6.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/DUTfSlkOsuX4W3b6.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"bKWmRS2iUV1HwFzm",
+                     "filename":"p66N8c7xQfsBvH7A.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/p66N8c7xQfsBvH7A.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"OtjeYpjDS46CMuZZ",
+            "name":"Rink 1"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"xSWDABYZd549YtSR",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-11-03T01:45:00+00:00",
+         "ends_at":"2025-11-03T03:45:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"Xgxl7qQ0cIYs5XUA",
+            "name":"Bingers",
+            "name_full":"Bingers",
+            "abbreviation":"Bin4",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-21T16:52:31+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"IK9GWPQ3ZkohLy6C",
+            "name":"Rink 4"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"V9jv1W2VCRaig8G3",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-11-14T05:00:00+00:00",
+         "ends_at":"2025-11-14T07:00:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"463fz8XhgO8u1MIm",
+            "name":"OZ Outlawz",
+            "name_full":"OZ Outlawz",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-25T02:54:13+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"asjQcA7qxsMfDwO9",
+            "name":"Rink 5"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"sgZMJ1b99EM63n1y",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-11-20T06:15:00+00:00",
+         "ends_at":"2025-11-20T08:15:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"MiqrLYW4UoMPWXxF",
+            "name":"Moose",
+            "name_full":"Moose",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T04:18:04+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"OtjeYpjDS46CMuZZ",
+            "name":"Rink 1"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"65UZ5iLQKi1cvdjF",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-12-01T02:00:00+00:00",
+         "ends_at":"2025-12-01T04:00:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"Ag1uFvqrvjlqb1Mw",
+            "name":"Team Exert",
+            "name_full":"Team Exert",
+            "abbreviation":"EXRT",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T04:18:04+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"FDbEX0QoWn2aSdAt",
+            "name":"Rink 8"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"IueITTkMaMcBRtt7",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-12-04T06:00:00+00:00",
+         "ends_at":"2025-12-04T08:00:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"KBz6bh7LvS7xrSKW",
+            "name":"Trash Pandas",
+            "name_full":"Trash Pandas",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":{
+               "id":"jPTLa8pwLdBnrfk1",
+               "filename":"hZOitd1UMg3kElt0.png",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/hZOitd1UMg3kElt0.png",
+               "mime_type":"image/png",
+               "width":532,
+               "height":469,
+               "formats":[
+                  {
+                     "id":"e86rEsVBkgwBIkR0",
+                     "filename":"I6aGFnFE5XAEFFqJ.png",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/I6aGFnFE5XAEFFqJ.png",
+                     "mime_type":"image/png",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"dDPZlbfyKhYf0s0i",
+                     "filename":"AT0mXDEPBXX829Lk.png",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/AT0mXDEPBXX829Lk.png",
+                     "mime_type":"image/png",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"6vWq8iTEBwUyFeqp",
+                     "filename":"vrsg0KeYH0mnLpjv.png",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/vrsg0KeYH0mnLpjv.png",
+                     "mime_type":"image/png",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"tKF8ksTMeKo2eOWF",
+            "name":"Rink 3"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"HQFbENArglJmCaKV",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-12-08T04:00:00+00:00",
+         "ends_at":"2025-12-08T06:00:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"ri3VUtgUieI7AYNV",
+            "name":"Heat",
+            "name_full":"Heat",
+            "abbreviation":"Hea3",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-29T19:47:48+00:00",
+            "players_count":0,
+            "image":{
+               "id":"NqC7XGu9VgdhnW2k",
+               "filename":"ZMvS3bOLTAWgIkIb.jpg",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/ZMvS3bOLTAWgIkIb.jpg",
+               "mime_type":"image/jpeg",
+               "width":845,
+               "height":845,
+               "formats":[
+                  {
+                     "id":"YjX0xlrRk1QpStF8",
+                     "filename":"j1b9m98NRjwQmvB8.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/j1b9m98NRjwQmvB8.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"6A7EbEfD4JyvL2QD",
+                     "filename":"JxMFV9q2GpoHvskc.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/JxMFV9q2GpoHvskc.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"xBalx7eVgrTMTOsi",
+                     "filename":"070TFCiMo5BYloet.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/070TFCiMo5BYloet.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"QKw57dxY01n6vy6c",
+            "name":"Rink 2"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"akVPjYwpQW7m1kHf",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-12-10T05:15:00+00:00",
+         "ends_at":"2025-12-10T07:15:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"4h9uZVqGf5zCEluI",
+            "name":"Hawt Dawgz",
+            "name_full":"Hawt Dawgz",
+            "abbreviation":"CTV3",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-10-01T02:38:19+00:00",
+            "players_count":0,
+            "image":{
+               "id":"dRQt9WoZpBZmKUSj",
+               "filename":"FCnzwa0VqJ530a77.jpg",
+               "full_path":"https://canlan-images-production.s3.amazonaws.com/original/FCnzwa0VqJ530a77.jpg",
+               "mime_type":"image/jpeg",
+               "width":566,
+               "height":524,
+               "formats":[
+                  {
+                     "id":"xx3UuZj4NDSQKksp",
+                     "filename":"d8RtPpuJVb7eF9Xc.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/d8RtPpuJVb7eF9Xc.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":200,
+                     "height":200
+                  },
+                  {
+                     "id":"obDHxpC4CIvtLXCq",
+                     "filename":"DUTfSlkOsuX4W3b6.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/DUTfSlkOsuX4W3b6.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":400,
+                     "height":400
+                  },
+                  {
+                     "id":"bKWmRS2iUV1HwFzm",
+                     "filename":"p66N8c7xQfsBvH7A.jpg",
+                     "full_path":"https://canlan-images-production.s3.amazonaws.com/resized/p66N8c7xQfsBvH7A.jpg",
+                     "mime_type":"image/jpeg",
+                     "width":800,
+                     "height":600
+                  }
+               ]
+            }
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"gzJ7mhfG5za6GxoS",
+            "name":"Rink 6"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      },
+      {
+         "id":"bKbUaj2D6jJMEhuO",
+         "sport_id":"YdNBdaFVjDXNONiY",
+         "generic_sport_id":"None",
+         "generic_sport_name":"None",
+         "game_status_id":1,
+         "game_type_id":2,
+         "league_game_number":"",
+         "starts_at":"2025-12-22T02:45:00+00:00",
+         "ends_at":"2025-12-22T04:45:00+00:00",
+         "started_at":"None",
+         "ended_at":"None",
+         "is_subscribed":false,
+         "broadcast_id":"",
+         "broadcast_video_url":"None",
+         "shootout":false,
+         "homeTeam":{
+            "id":"Xgxl7qQ0cIYs5XUA",
+            "name":"Bingers",
+            "name_full":"Bingers",
+            "abbreviation":"Bin4",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-21T16:52:31+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "visitingTeam":{
+            "id":"pFCCVxgBN9oPfj9i",
+            "name":"Blood Sweat & Beers",
+            "name_full":"Blood Sweat & Beers",
+            "abbreviation":"None",
+            "is_placeholder":false,
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "is_public":true,
+            "is_visible":true,
+            "updated_at":"2025-09-30T22:37:17+00:00",
+            "players_count":0,
+            "image":"None"
+         },
+         "homeTeamSlot":"None",
+         "visitingTeamSlot":"None",
+         "venue":{
+            "id":"inL5o6hwqDjnVv8m",
+            "name":"Scotia Barn",
+            "name_full":"Scotia Barn",
+            "email":"None",
+            "website":"None",
+            "phone":"None",
+            "timezone":"America/Vancouver",
+            "abbreviation":"CBU",
+            "has_disabled_access":false,
+            "has_bar":false,
+            "parking":"",
+            "address":{
+               "id":"nmYud5TQTFRzT3xa",
+               "name":"Scotia Barn",
+               "name_full":"None",
+               "street_1":"6501 Sprott Street",
+               "street_2":"None",
+               "city":"Burnaby",
+               "postal_code":"V5B 3B8",
+               "latitude":49.24881,
+               "longitude":-122.98051,
+               "updated_at":"2023-09-10T05:58:41+00:00",
+               "country":{
+                  "id":36,
+                  "name":"Canada",
+                  "name_full":"Canada",
+                  "iso_3166_2":"CA",
+                  "iso_3166_3":"CAN",
+                  "capital":"Ottawa",
+                  "citizenship":"Canadian",
+                  "currency_symbol":"$",
+                  "is_visible":true
+               },
+               "province":{
+                  "id":2,
+                  "country_id":36,
+                  "name":"British Columbia",
+                  "iso_3166_2":"BC",
+                  "geonames_id":5909050,
+                  "geonames_code":"02"
+               }
+            },
+            "facilities":[
+               {
+                  "id":"dNUCnTnJ9z6X3ExG",
+                  "name":"Field"
+               },
+               {
+                  "id":"krLDLmCTxPCwKlOI",
+                  "name":"ISNS Rink 1"
+               },
+               {
+                  "id":"XYvFNpEJl1hJdrva",
+                  "name":"ISNS Rink 2"
+               },
+               {
+                  "id":"YUOffbL85sX3uTYF",
+                  "name":"ISNS Rink 3"
+               },
+               {
+                  "id":"OtjeYpjDS46CMuZZ",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"Fi3itTpuF1c2fesc",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"W4iMAcPHR2YnvAN5",
+                  "name":"Rink 1"
+               },
+               {
+                  "id":"68q7T0F1hwuxOssA",
+                  "name":"Rink 198"
+               },
+               {
+                  "id":"QKw57dxY01n6vy6c",
+                  "name":"Rink 2"
+               },
+               {
+                  "id":"hd1X0CPgnenjHC5D",
+                  "name":"Rink 228"
+               },
+               {
+                  "id":"SPXSxUVc3Pw8ax18",
+                  "name":"Rink 229"
+               },
+               {
+                  "id":"D8t6xpELIv3QMZyg",
+                  "name":"Rink 230"
+               },
+               {
+                  "id":"0BH6GdROKXVp5K5P",
+                  "name":"Rink 2612"
+               },
+               {
+                  "id":"tKF8ksTMeKo2eOWF",
+                  "name":"Rink 3"
+               },
+               {
+                  "id":"burvSaSVwVatYtjE",
+                  "name":"Rink 3746"
+               },
+               {
+                  "id":"IK9GWPQ3ZkohLy6C",
+                  "name":"Rink 4"
+               },
+               {
+                  "id":"asjQcA7qxsMfDwO9",
+                  "name":"Rink 5"
+               },
+               {
+                  "id":"gzJ7mhfG5za6GxoS",
+                  "name":"Rink 6"
+               },
+               {
+                  "id":"FDbEX0QoWn2aSdAt",
+                  "name":"Rink 8"
+               },
+               {
+                  "id":"a82y51qQ3rPi3Ks4",
+                  "name":"ROO"
+               },
+               {
+                  "id":"m6YkO96WFnatADFp",
+                  "name":"SB - Rink 1"
+               },
+               {
+                  "id":"O6Ok2GPjhi5XC6JO",
+                  "name":"SB - Rink 2"
+               },
+               {
+                  "id":"hRIbZC5j7ryJEJPJ",
+                  "name":"SB - Rink 3"
+               },
+               {
+                  "id":"y1h8V2TUVI7KTEtq",
+                  "name":"SB - Rink 4"
+               },
+               {
+                  "id":"QPBIN396MHMfnedZ",
+                  "name":"SB - Rink 5"
+               },
+               {
+                  "id":"vzKLu82ylIDNNtQt",
+                  "name":"SB - Rink 6"
+               },
+               {
+                  "id":"v45Pa5JlEnWeBjmC",
+                  "name":"SB-Rink 1"
+               },
+               {
+                  "id":"TjIKE9HsHQ45zOZE",
+                  "name":"SB-Rink 2"
+               },
+               {
+                  "id":"BhLg2Ma5DNC8EJwg",
+                  "name":"SB-Rink 3"
+               },
+               {
+                  "id":"DiEYMAPObkKfqJXu",
+                  "name":"SB-Rink 4"
+               }
+            ]
+         },
+         "facility":{
+            "id":"QKw57dxY01n6vy6c",
+            "name":"Rink 2"
+         },
+         "schedule":{
+            "id":"pjUxzRp2HbuJlnke",
+            "name":"Men's 30+ D1C"
+         },
+         "rootSchedule":"None",
+         "stats_processing":false,
+         "stats_rolledback":false,
+         "if_necessary_status":false
+      }
+   ],
+   "meta":{
+      "permissions":[
+         
+      ],
+      "pagination":{
+         "total":16,
+         "count":16,
+         "per_page":50,
+         "current_page":1,
+         "total_pages":1
+      }
+   }
+}
